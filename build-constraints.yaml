@@ -9,6 +9,9 @@ cabal-format-version: "3.0"
 
 # Constraints for brand new builds
 packages:
+    "Gavin Falconer <gavin@expressivelogic.net> @xprl-gjf":
+        - gi-vips
+        
     "Lukas Epple <sternenseemann@systemli.org> @sternenseemann":
         - socket
         - spacecookie
